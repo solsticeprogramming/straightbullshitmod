@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Mod Page</title>
+</head>
+<body>
+  <h1>Custom element mod</h1>
+  <p>This page loads my JS mod file.</p>
+
+  <!-- Load the base app or game first -->
+  <script src="conductor.js"></script>
+
+  <!-- Then load your snippet -->
+  <script src="mod.js"></script>
+</body>
+</html>
